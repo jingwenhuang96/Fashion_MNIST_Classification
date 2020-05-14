@@ -43,6 +43,7 @@ This file uses the random forest to classify the images. This files includes the
 
 _Evaluating model:_ 
 classification accuracy on test set is: 0.8717857142857143
+
 _Confusion matrix:_ 
 label 6 — Shirt is easier to be classified as label 0 — T-shirt/top and label 2 — Pullover； Random Forest model performs relatively not well on classifying shirt.
 
@@ -57,6 +58,7 @@ This file uses the ANN to classify the images. This files includes the steps of 
 _Evaluating model:_ 
 for sparse_categorical_crossentropy: Test accuracy: 0.8970714211463928; 
 for categorical_crossentropy: Test accuracy: 0.8812857270240784
+
 _Confusion matrix:_ 
 There is no significant misclassification between two categories. ANN model performs relatively not well on classifying shirt.
 
@@ -70,6 +72,7 @@ This file uses 2D CNN to classify the images. This files includes the steps of l
 
 _Evaluating model:_
 classification accuracy on test set is: 0.9024285674095154
+
 _Confusion matrix:_ 
 label 6 — Shirt is easier to be classified as label 0 — T-shirt/top.
 CNN model performs relatively not well on classifying shirt.
