@@ -1,5 +1,9 @@
 # Fashion_MNIST_Classification
 
+## Blog of this project in Medium
+
+https://medium.com/@forever.aiqi/explore-image-classification-with-fashion-mnist-dataset-e375a2483fb7
+
 ## The libraries used
 
 matplotlib 
