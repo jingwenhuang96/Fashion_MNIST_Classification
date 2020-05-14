@@ -1,22 +1,21 @@
 # Fashion_MNIST_Classification
 
-## Blog of this project in Medium
+## Motivation for the project
+
+In this project, the fashion MNIST dataset is used to train the different machine learning methods, including the logistic regression classifier, random forest classifier, artificial neural network and convolutional neural network. The purposes of this project is to understand which models are better in this case
+
+## Blog of this project in Medium showing the result of this project
 
 https://medium.com/@forever.aiqi/explore-image-classification-with-fashion-mnist-dataset-e375a2483fb7
 
-## The libraries used
+## Libraries used
 
 matplotlib 
 numpy
 sklearn
 tensorflow.keras
 
-## The motivation for the project
-
-In this project, the fashion MNIST dataset is used to train the different machine learning methods, including the logistic regression classifier, random forest classifier, artificial neural network and convolutional neural network. The purposes of this project is to understand which models are better in this case
-
-
-## The files in the repository 
+## Coding Files
 
 There are four code files in this repository
 
@@ -66,5 +65,7 @@ Confusion matrix:
 label 6 — Shirt is easier to be classified as label 0 — T-shirt/top.
 CNN model performs relatively not well on classifying shirt.
 
+## Future Improvement
 
+Keep working on the models to improve the accuracy rate, and adding more classifiers to solve this problem
 
